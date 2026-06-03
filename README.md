@@ -10,7 +10,7 @@ I engineer physical systems. I specialize in bridging the gap between mathematic
 
 ### 🚀 Engineering Portfolio
 1. [CoronaryAI Vest — Real-Time Cardiac Wearable](#) *(IEEE 1st Place - Embedded C, Python, Flutter)*
-2. [Vertical Positioning Control System](#) *(Closed-Loop PID, MATLAB, Embedded C)*
+2. [Vertical Positioning Control System](https://github.com/MohamedH-Sallam/Vertical-Positioning-System) *(Closed-Loop PID, MATLAB, Embedded C)*
 3. [Multi-Output Regulated DC Power Supply](#) *(Analog Design, NI Multisim, Sub-4% Error)*
 4. [Autonomous Parallel Parking Vehicle](#) *(Spatial Kinematics, C++, Ultrasonic Arrays)*
 5. [Automated Aquaculture IoT System](#) *(Sensor Telemetry, Process Automation)*
