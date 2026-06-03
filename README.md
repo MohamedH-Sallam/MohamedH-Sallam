@@ -15,4 +15,4 @@ I engineer physical systems. I specialize in bridging the gap between mathematic
 4. [Autonomous Parallel Parking Vehicle](#) *(Spatial Kinematics, C++, Ultrasonic Arrays)*
 5. [Automated Aquaculture IoT System](#) *(Sensor Telemetry, Process Automation)*
 
-📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/mohamed-sallam) | [Email](mailto:mohamedhatemmut@gmail.com)
+📫 **Reach out:** [LinkedIn](www.linkedin.com/in/mohamed-sallam-15a0a3212) | [Email](mailto:mohamedhatemmut@gmail.com)
