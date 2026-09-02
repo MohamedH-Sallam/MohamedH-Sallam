@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamed Sallam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,75:7C3AED,100:06B6D4&height=180&section=header&text=Mohamed%20Sallam&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Mechatronics%20Engineering%20%7C%20Embedded%20Systems%20%7C%20Control&descAlignY=60&descSize=17" width="100%" alt="Mohamed Sallam header">
 
 ### Mechatronics Engineering · Embedded Systems · Control · Robotics
 
@@ -10,48 +10,38 @@
   <a href="mailto:mohamedhatemmut@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:06B6D4&height=3&section=header" width="100%" alt="divider">
+</div>
+
+## Engineering Identity
+
+I am a **Mechatronics Engineering student at Nile University** focused on designing and building physical systems where **mechanics, electronics, software, and control** have to work together.
+
+My work spans **embedded systems, control engineering, robotics, IoT, and biomedical technology** — from mathematical models and simulation to hardware implementation, integration, and testing.
+
+<div align="center">
+
+### **Model it · Build it · Control it · Test it**
 
 </div>
 
-## Engineering Profile
-
-I am a **Mechatronics Engineering student at Nile University** focused on building physical systems that connect mathematical models, electronics, software, and real-world hardware.
-
-My work sits at the intersection of **embedded systems, control engineering, robotics, IoT, and biomedical technology**. I enjoy taking a system from an engineering concept and model to a tested prototype.
-
-> **Model it. Build it. Control it. Test it.**
-
 ---
 
-## Selected Work
+## Recognition
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="22%" align="center">
 
-### CoronaryAI Vest
-
-**Real-Time Wearable Cardiac Monitoring**
-
-A wearable engineering prototype combining ECG acquisition, signal processing, embedded AI, Bluetooth Low Energy, and a Flutter mobile application.
-
-**Recognition:** IEEE YESIST12 2025 — **1st Place, Regional Round**
-
-<a href="https://github.com/MohamedH-Sallam/CoronaryAI-Vest-Real-Time-Cardiac-Wearable">View Project →</a>
+### 🏆
 
 </td>
-<td width="50%" valign="top">
+<td width="78%">
 
-### Vertical Positioning System
+### IEEE YESIST12 2025 — 1st Place, Regional Round
 
-**Closed-Loop Vertical Motion Control**
+**CoronaryAI Vest · Heart AI Innov. · Abstract ID 9996**
 
-A complete mechatronics control system using a chain-and-sprocket transmission, load-side encoder feedback, PID control, MATLAB/Simulink modeling, and embedded actuation.
-
-**Focus:** Control systems · Mechanical transmission · Real-time feedback
-
-<a href="https://github.com/MohamedH-Sallam/Vertical-Positioning-System">View Project →</a>
+Qualified for the International Round in Malaysia.
 
 </td>
 </tr>
@@ -59,9 +49,84 @@ A complete mechatronics control system using a chain-and-sprocket transmission, 
 
 ---
 
-## Project Pipeline
+## Engineering Domains
 
-The projects below are part of the engineering portfolio and will be added as their repositories are finalized.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Embedded-0F766E?style=for-the-badge&logo=espressif&logoColor=white" alt="Embedded">
+<img src="https://img.shields.io/badge/Control-2563EB?style=for-the-badge&logo=control4&logoColor=white" alt="Control">
+<img src="https://img.shields.io/badge/Robotics-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics">
+<img src="https://img.shields.io/badge/IoT-0891B2?style=for-the-badge&logo=internetofthings&logoColor=white" alt="IoT">
+<img src="https://img.shields.io/badge/Biomedical-BE185D?style=for-the-badge&logo=heart&logoColor=white" alt="Biomedical">
+<img src="https://img.shields.io/badge/Mechanical%20Design-475569?style=for-the-badge&logo=solidworks&logoColor=white" alt="Mechanical Design">
+<img src="https://img.shields.io/badge/Electronics-B45309?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Electronics">
+<img src="https://img.shields.io/badge/Automation-334155?style=for-the-badge&logo=automattic&logoColor=white" alt="Automation">
+
+</div>
+
+---
+
+## Featured Engineering Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · CoronaryAI Vest
+
+**Real-Time Wearable Cardiac Monitoring**
+
+A wearable engineering prototype combining **ECG acquisition, digital signal processing, lightweight edge AI, BLE communication, and Flutter**.
+
+`Embedded` `ECG` `Signal Processing` `AI` `BLE`
+
+**IEEE YESIST12 2025 · 1st Place, Regional**
+
+<a href="https://github.com/MohamedH-Sallam/CoronaryAI-Vest-Real-Time-Cardiac-Wearable"><b>View repository →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · Vertical Positioning System
+
+**Closed-Loop Vertical Motion Control**
+
+A complete mechatronics system using **chain-and-sprocket transmission, load-side encoder feedback, PID control, MATLAB/Simulink, and embedded actuation**.
+
+`PID` `Simulink` `Encoder` `Embedded` `Mechanics`
+
+**Designed, modeled, implemented, and tested**
+
+<a href="https://github.com/MohamedH-Sallam/Vertical-Positioning-System"><b>View repository →</b></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Portfolio
+
+### Published
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CoronaryAI Vest**  
+Wearable cardiac monitoring · Embedded AI · Signal processing · BLE
+
+</td>
+<td width="50%" valign="top">
+
+**Vertical Positioning System**  
+PID control · Mechanical transmission · MATLAB/Simulink · Embedded control
+
+</td>
+</tr>
+</table>
+
+### In Development
 
 <table>
 <tr>
@@ -71,9 +136,9 @@ The projects below are part of the engineering portfolio and will be added as th
 
 **Analog Power Electronics**
 
-Regulated multi-output supply developed around circuit design, simulation, and measurement, with a target of **sub-4% output error**.
+Circuit design, simulation, regulation, and measurement with a target of **sub-4% output error**.
 
-**Status:** Repository coming soon
+`Repository coming soon`
 
 </td>
 <td width="50%" valign="top">
@@ -82,9 +147,9 @@ Regulated multi-output supply developed around circuit design, simulation, and m
 
 **Robotics & Autonomous Motion**
 
-Autonomous parking platform focused on spatial kinematics, ultrasonic sensing, C++ control logic, and coordinated vehicle motion.
+Spatial kinematics, ultrasonic sensing, C++ control logic, and coordinated vehicle motion.
 
-**Status:** Repository coming soon
+`Repository coming soon`
 
 </td>
 </tr>
@@ -95,20 +160,20 @@ Autonomous parking platform focused on spatial kinematics, ultrasonic sensing, C
 
 **IoT & Process Automation**
 
-An automated aquaculture system combining environmental sensing, telemetry, and process control for smarter monitoring and operation.
+Environmental sensing, telemetry, automation, and process control for smarter aquaculture monitoring.
 
-**Status:** Repository coming soon
+`Repository coming soon`
 
 </td>
 <td width="50%" valign="top">
 
 ### More Engineering Work
 
-**In development**
+**In Development**
 
-Additional work across embedded systems, industrial automation, IoT, electronics, CAD, and control engineering will be published here as the projects are documented.
+Additional projects across embedded systems, industrial automation, IoT, electronics, CAD, and control engineering.
 
-**Status:** Building & documenting
+`Building & documenting`
 
 </td>
 </tr>
@@ -116,92 +181,102 @@ Additional work across embedded systems, industrial automation, IoT, electronics
 
 ---
 
-## Technical Capabilities
+## Technical Stack
 
-| Area | Technologies & Methods |
-|---|---|
-| **Programming** | C/C++ · Python · MATLAB |
-| **Control Systems** | PID · Feedback Control · Plant Modeling · Simulink |
-| **Embedded Systems** | ESP32 · STM32 · Arduino · UART · I2C · SPI · PWM |
-| **Electronics** | Analog Circuits · Sensor Interfaces · PCB Prototyping · NI Multisim |
-| **Mechanical Design** | SolidWorks · CAD · Mechanisms · Transmission Design |
-| **Robotics & Automation** | Motion Control · Actuation · Sensor Fusion · System Integration |
-| **IoT** | Sensor Telemetry · Wireless Communication · Monitoring Systems |
-| **Biomedical Systems** | ECG Acquisition · Signal Processing · Wearable Systems · Edge AI |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Programming**  
+C/C++ · Python · MATLAB
+
+**Embedded**  
+ESP32 · STM32 · Arduino · UART · I2C · SPI · PWM
+
+**Control**  
+PID · Feedback Control · Plant Modeling · Simulink
+
+**Electronics**  
+Analog Circuits · Sensor Interfaces · PCB Prototyping · NI Multisim
+
+</td>
+<td width="50%" valign="top">
+
+**Mechanical**  
+SolidWorks · CAD · Mechanisms · Transmission Design
+
+**Robotics & Automation**  
+Motion Control · Actuation · Sensor Fusion · System Integration
+
+**IoT**  
+Sensor Telemetry · Wireless Communication · Monitoring Systems
+
+**Biomedical**  
+ECG Acquisition · Signal Processing · Wearable Systems · Edge AI
+
+</td>
+</tr>
+</table>
 
 ---
 
-## How I Build
+## How I Engineer
+
+<div align="center">
 
 ```text
-                 ENGINEERING PROBLEM
-                         │
-                         ▼
-                 SYSTEM REQUIREMENTS
-                         │
-                         ▼
-                 MATHEMATICAL MODEL
-                         │
-                         ▼
-              SIMULATION & VALIDATION
-                         │
-                         ▼
-              HARDWARE IMPLEMENTATION
-                         │
-                         ▼
-                 EMBEDDED CONTROL
-                         │
-                         ▼
-               PHYSICAL INTEGRATION
-                         │
-                         ▼
-                    TEST & ITERATE
+PROBLEM
+   ↓
+REQUIREMENTS
+   ↓
+MATHEMATICAL MODEL
+   ↓
+SIMULATION & VALIDATION
+   ↓
+HARDWARE IMPLEMENTATION
+   ↓
+EMBEDDED CONTROL
+   ↓
+PHYSICAL INTEGRATION
+   ↓
+TEST → ITERATE → IMPROVE
 ```
 
-The goal is always the same: **make the model and the physical system agree as closely as possible.**
+</div>
+
+> **The objective is simple: make the model, hardware, and real-world behavior agree.**
 
 ---
 
 ## Current Engineering Direction
 
-### **Mechatronics → Embedded Control → Intelligent Hardware**
-
-I am particularly interested in systems where software and hardware must work together under real physical constraints: motion, sensing, power, timing, noise, mechanical dynamics, and feedback.
-
-**Areas of interest**
-
-- Embedded and real-time control systems
-- Robotics and autonomous systems
-- Avionics and electromechanical systems
-- Industrial automation and IoT
-- Biomedical instrumentation and wearable technology
-
----
-
-## Engineering Highlights
-
 <div align="center">
 
-| | Highlight |
-|:---:|---|
-| **01** | **IEEE YESIST12 2025 — 1st Place, Regional Round** |
-| **02** | **CoronaryAI Vest — Wearable cardiac-monitoring prototype** |
-| **03** | **Vertical Positioning System — Complete closed-loop physical prototype** |
-| **04** | **Cross-domain work across mechanical, electrical, software, and control engineering** |
+### **Mechatronics → Embedded Control → Intelligent Hardware**
 
 </div>
 
+I am particularly interested in systems where software and hardware must operate together under real physical constraints — **motion, sensing, power, timing, noise, mechanical dynamics, and feedback**.
+
+**Areas of interest:** Embedded & real-time control · Robotics & autonomous systems · Avionics & electromechanical systems · Industrial automation & IoT · Biomedical instrumentation & wearable technology
+
 ---
 
-## Explore the Repositories
+## Currently Building
 
-- **[CoronaryAI Vest — Real-Time Cardiac Wearable](https://github.com/MohamedH-Sallam/CoronaryAI-Vest-Real-Time-Cardiac-Wearable)** — Biomedical engineering, embedded systems, signal processing, edge AI, and mobile development.
-- **[Vertical Positioning Control System](https://github.com/MohamedH-Sallam/Vertical-Positioning-System)** — Mechanical transmission, mathematical modeling, PID control, MATLAB/Simulink, embedded control, and physical validation.
-- **Multi-Output Regulated DC Power Supply** — Repository coming soon.
-- **Autonomous Parallel Parking Vehicle** — Repository coming soon.
-- **Automated Aquaculture IoT System** — Repository coming soon.
+**Industrial IoT monitoring · Embedded sensing platforms · Mechanical systems · Control applications · Engineering documentation**
 
-Each repository is intended to read like an engineering record: **design → implementation → documentation → validation**.
+The portfolio will continue to grow as each project is turned into a complete, reproducible engineering record.
+
+---
+
+## Repository Standard
+
+Every project is intended to document the engineering journey:
+
+**Design → Implementation → Documentation → Validation**
+
+Where possible, repositories include **CAD, simulation, source code, schematics, technical reports, media, and physical prototype evidence** rather than only the final code.
 
 ---
 
@@ -215,9 +290,14 @@ Each repository is intended to read like an engineering record: **design → imp
 
 <a href="https://www.linkedin.com/in/mohamed-sallam-15a0a3212"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mohamedhatemmut@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedhatemmut%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/MohamedH-Sallam"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
 
 <sub>Mechatronics Engineering · Embedded Systems · Control Engineering · Robotics · Intelligent Hardware</sub>
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:7C3AED,75:2563EB,100:0F172A&height=90&section=footer" width="100%" alt="footer">
 </div>
