@@ -6,13 +6,13 @@
 
 <p>
   <a href="https://github.com/MohamedH-Sallam"><img src="https://img.shields.io/badge/GitHub-MohamedH--Sallam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/mohamed-sallam-15a0a3212"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Sallam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mohamed-sallam-15a0a3212"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohamedhatemmut@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:06B6D4&height=3&section=header" width="100%" alt="divider">
 
----
+</div>
 
 ## Engineering Profile
 
@@ -52,6 +52,63 @@ A complete mechatronics control system using a chain-and-sprocket transmission, 
 **Focus:** Control systems · Mechanical transmission · Real-time feedback
 
 <a href="https://github.com/MohamedH-Sallam/Vertical-Positioning-System">View Project →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Project Pipeline
+
+The projects below are part of the engineering portfolio and will be added as their repositories are finalized.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Multi-Output Regulated DC Power Supply
+
+**Analog Power Electronics**
+
+Regulated multi-output supply developed around circuit design, simulation, and measurement, with a target of **sub-4% output error**.
+
+**Status:** Repository coming soon
+
+</td>
+<td width="50%" valign="top">
+
+### Autonomous Parallel Parking Vehicle
+
+**Robotics & Autonomous Motion**
+
+Autonomous parking platform focused on spatial kinematics, ultrasonic sensing, C++ control logic, and coordinated vehicle motion.
+
+**Status:** Repository coming soon
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Automated Aquaculture IoT System
+
+**IoT & Process Automation**
+
+An automated aquaculture system combining environmental sensing, telemetry, and process control for smarter monitoring and operation.
+
+**Status:** Repository coming soon
+
+</td>
+<td width="50%" valign="top">
+
+### More Engineering Work
+
+**In development**
+
+Additional work across embedded systems, industrial automation, IoT, electronics, CAD, and control engineering will be published here as the projects are documented.
+
+**Status:** Building & documenting
 
 </td>
 </tr>
@@ -107,11 +164,11 @@ The goal is always the same: **make the model and the physical system agree as c
 
 ## Current Engineering Direction
 
-**Mechatronics → Embedded Control → Intelligent Hardware**
+### **Mechatronics → Embedded Control → Intelligent Hardware**
 
 I am particularly interested in systems where software and hardware must work together under real physical constraints: motion, sensing, power, timing, noise, mechanical dynamics, and feedback.
 
-My long-term interests include:
+**Areas of interest**
 
 - Embedded and real-time control systems
 - Robotics and autonomous systems
@@ -140,8 +197,11 @@ My long-term interests include:
 
 - **[CoronaryAI Vest — Real-Time Cardiac Wearable](https://github.com/MohamedH-Sallam/CoronaryAI-Vest-Real-Time-Cardiac-Wearable)** — Biomedical engineering, embedded systems, signal processing, edge AI, and mobile development.
 - **[Vertical Positioning Control System](https://github.com/MohamedH-Sallam/Vertical-Positioning-System)** — Mechanical transmission, mathematical modeling, PID control, MATLAB/Simulink, embedded control, and physical validation.
+- **Multi-Output Regulated DC Power Supply** — Repository coming soon.
+- **Autonomous Parallel Parking Vehicle** — Repository coming soon.
+- **Automated Aquaculture IoT System** — Repository coming soon.
 
-Each repository is structured as an engineering record: **design → implementation → documentation → validation**.
+Each repository is intended to read like an engineering record: **design → implementation → documentation → validation**.
 
 ---
 
@@ -151,11 +211,10 @@ Each repository is structured as an engineering record: **design → implementat
 
 **Open to engineering projects, research opportunities, internships, and technical collaboration.**
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/mohamed-sallam-15a0a3212">LinkedIn</a> ·
-<a href="mailto:mohamedhatemmut@gmail.com">Email</a> ·
-<a href="https://github.com/MohamedH-Sallam">GitHub</a>
+<a href="https://www.linkedin.com/in/mohamed-sallam-15a0a3212"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:mohamedhatemmut@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedhatemmut%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br><br>
 
