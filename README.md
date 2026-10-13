@@ -160,9 +160,11 @@ Spatial kinematics, ultrasonic sensing, C++ control logic, and coordinated vehic
 
 **IoT & Process Automation**
 
-Environmental sensing, telemetry, automation, and process control for smarter aquaculture monitoring.
+Arduino based aquaculture prototype integrating pH and temperature feedback, water treatment, automated feeding, aeration, and Bluetooth monitoring.
 
-`Repository setup in progress`
+`Prototype built and tested` · `Repository publication pending`
+
+<a href="https://drive.google.com/file/d/1sk-0LAVp32ne3fXqk1-1biSkbSBtEg8Y/view"><b>Read the project report →</b></a>
 
 </td>
 <td width="50%" valign="top">
