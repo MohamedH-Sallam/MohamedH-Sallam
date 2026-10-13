@@ -113,14 +113,42 @@ A complete mechatronics system using **chain-and-sprocket transmission, load-sid
 <tr>
 <td width="50%" valign="top">
 
-**CoronaryAI Vest**  
+### CoronaryAI Vest
+
 Wearable cardiac monitoring · Embedded AI · Signal processing · BLE
+
+<a href="https://github.com/MohamedH-Sallam/CoronaryAI-Vest-Real-Time-Cardiac-Wearable"><b>View repository →</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-**Vertical Positioning System**  
+### Vertical Positioning System
+
 PID control · Mechanical transmission · MATLAB/Simulink · Embedded control
+
+<a href="https://github.com/MohamedH-Sallam/Vertical-Positioning-System"><b>View repository →</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Automated Aquaculture IoT System
+
+**IoT & Process Automation**
+
+Arduino based aquaculture prototype integrating pH and temperature feedback, water treatment, automated feeding, aeration, and Bluetooth monitoring.
+
+<a href="https://github.com/MohamedH-Sallam/Automated-Aquaculture-IoT-System"><b>View repository →</b></a> · <a href="https://drive.google.com/file/d/1sk-0LAVp32ne3fXqk1-1biSkbSBtEg8Y/view">Project report</a>
+
+</td>
+<td width="50%" valign="top">
+
+### More Engineering Work
+
+Additional projects across embedded systems, industrial automation, IoT, electronics, CAD, and control engineering.
+
+`Building & documenting`
 
 </td>
 </tr>
@@ -150,32 +178,6 @@ Circuit design, simulation, regulation, and measurement with a target of **sub-4
 Spatial kinematics, ultrasonic sensing, C++ control logic, and coordinated vehicle motion.
 
 `Repository coming soon`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Automated Aquaculture IoT System
-
-**IoT & Process Automation**
-
-Arduino based aquaculture prototype integrating pH and temperature feedback, water treatment, automated feeding, aeration, and Bluetooth monitoring.
-
-`Prototype built and tested` · `Repository publication pending`
-
-<a href="https://drive.google.com/file/d/1sk-0LAVp32ne3fXqk1-1biSkbSBtEg8Y/view"><b>Read the project report →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### More Engineering Work
-
-**In Development**
-
-Additional projects across embedded systems, industrial automation, IoT, electronics, CAD, and control engineering.
-
-`Building & documenting`
 
 </td>
 </tr>
