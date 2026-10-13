@@ -162,7 +162,7 @@ Spatial kinematics, ultrasonic sensing, C++ control logic, and coordinated vehic
 
 Environmental sensing, telemetry, automation, and process control for smarter aquaculture monitoring.
 
-`Repository coming soon`
+`Repository setup in progress`
 
 </td>
 <td width="50%" valign="top">
