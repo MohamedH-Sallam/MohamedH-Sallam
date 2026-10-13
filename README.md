@@ -144,11 +144,13 @@ Arduino based aquaculture prototype integrating pH and temperature feedback, wat
 </td>
 <td width="50%" valign="top">
 
-### More Engineering Work
+### Multi-Output Regulated DC Power Supply
 
-Additional projects across embedded systems, industrial automation, IoT, electronics, CAD, and control engineering.
+**Analog Power Electronics · Published**
 
-`Building & documenting`
+A six-rail regulated DC bench supply featuring fixed and adjustable positive/negative outputs, rectification, filtering, voltage regulation, and measured prototype validation.
+
+<a href="https://github.com/MohamedH-Sallam/Multi-Output-Regulated-DC-Power-Supply"><b>View published repository →</b></a>
 
 </td>
 </tr>
@@ -160,13 +162,11 @@ Additional projects across embedded systems, industrial automation, IoT, electro
 <tr>
 <td width="50%" valign="top">
 
-### Multi-Output Regulated DC Power Supply
+### Future Engineering Work
 
-**Analog Power Electronics**
+Further projects across embedded systems, industrial automation, IoT, electronics, CAD, and control engineering.
 
-Circuit design, simulation, regulation, and measurement with a target of **sub-4% output error**.
-
-`Repository coming soon`
+`In development`
 
 </td>
 <td width="50%" valign="top">
